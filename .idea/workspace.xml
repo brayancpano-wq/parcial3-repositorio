@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c46e57a-c048-4e4c-9e27-4672bdc44680" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/restaurante/src/Bebidas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurante/src/DetallePedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurante/src/ESTADOPEDIDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurante/src/EntregaSegura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurante/src/IServicioDomicilio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurante/src/Pedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurante/src/PedidoDomicilio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurante/src/PedidoMesa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurante/src/PlatoFuerte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurante/src/Postres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurante/src/Producto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurante/src/RapidoExpress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurante/src/Restaurante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurante/src/TIPOBEBIDA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurante/src/TIPOPREPARACION.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Record" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="3LzEyoy8L98qL3Ve66h6B4MWZ8U" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "estudiante2JEFFERSONVALENCIA",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Brayan Camilo/Downloads/parcial3-repositorio/restaurante/src/Main.java"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c46e57a-c048-4e4c-9e27-4672bdc44680" name="Changes" comment="" />
+      <created>1794448755387</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1794448755387</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/restaurante/src/Main.java</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
